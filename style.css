@@ -1,0 +1,41 @@
+:root{
+    --color-principal: #006D77;
+    --color-secundario: #83C5BE;
+    --color-texto: #EDF6F9;
+    --color-acento: #E29578;
+    --color-rojo: #780116;
+    --color-verde: #45CB85;
+}
+
+body{
+    background-color: var(--color-principal);
+}
+
+body h1{
+    background-color: var(--color-acento);
+    color: var(--color-texto);
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#registro {
+    color: var(--color-texto);
+    border: 2px solid var(--color-secundario);
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+
+#registro input{
+    display: block;
+}
+
+.success{
+    color: var(--color-verde);
+}
+
+.error{
+    color: var(--color-rojo);
+}
