@@ -7,3 +7,5 @@ Dentro de la web tenemos un formulario con los campos "nombre" y "edad", el scri
 <img width="1360" height="720" alt="Captura de pantalla 2025-09-16 181109" src="https://github.com/user-attachments/assets/5ecc52f4-9c64-4ae3-b174-1ac517e79013" />
 <img width="1360" height="720" alt="Captura de pantalla 2025-09-16 181504" src="https://github.com/user-attachments/assets/f84e9741-bb2c-4a85-92eb-7defc317d0e3" />
 <img width="1360" height="720" alt="Captura de pantalla 2025-09-16 181516" src="https://github.com/user-attachments/assets/601f4da4-a2a8-4a9a-98dd-1d871655d80b" />
+
+Autor: Facundo Fernandez. curso de desarrollo en React.js turno noche, Septiembre 2025.
